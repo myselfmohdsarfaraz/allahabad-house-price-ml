@@ -1,0 +1,101 @@
+Location,Property_Type,Area_sqft,Bedrooms,Bathrooms,Age_years,Floor,Parking,Furnishing,Price
+Teliarganj,Builder Floor,1416,2,2,25,2,Yes,Unfurnished,7200000
+Naini,Independent House,2193,3,3,22,1,No,Unfurnished,10150000
+Georgetown,Apartment,920,2,2,17,7,Yes,Unfurnished,4850000
+Jhunsi,Builder Floor,934,2,1,27,2,Yes,Semi-Furnished,2590000
+Civil Lines,Villa,2548,5,5,3,1,No,Semi-Furnished,27110000
+Phaphamau,Villa,2907,5,4,28,2,Yes,Unfurnished,11010000
+Teliarganj,Independent House,916,2,2,26,1,No,Unfurnished,4990000
+Teliarganj,Apartment,743,1,1,15,7,Yes,Furnished,4980000
+Civil Lines,Apartment,1534,2,2,22,7,Yes,Unfurnished,12800000
+Naini,Builder Floor,1657,4,4,16,2,Yes,Semi-Furnished,6300000
+Naini,Independent House,2326,4,3,8,1,Yes,Semi-Furnished,13060000
+Phaphamau,Apartment,829,2,2,24,1,No,Unfurnished,2760000
+Jhunsi,Apartment,879,2,2,7,1,Yes,Unfurnished,3360000
+Georgetown,Independent House,2504,4,3,9,2,Yes,Unfurnished,15960000
+Naini,Apartment,617,2,1,16,1,Yes,Furnished,2920000
+Jhalwa,Builder Floor,1439,3,3,25,0,No,Unfurnished,6020000
+Kareli,Villa,3763,5,4,11,1,No,Unfurnished,24630000
+Civil Lines,Villa,2133,3,2,15,2,No,Unfurnished,23370000
+Georgetown,Independent House,1394,3,3,1,2,Yes,Unfurnished,10980000
+Jhunsi,Independent House,2159,4,3,3,1,Yes,Semi-Furnished,9880000
+Teliarganj,Independent House,1192,2,1,1,1,Yes,Unfurnished,10150000
+Naini,Independent House,2855,5,4,2,1,Yes,Semi-Furnished,16720000
+Phaphamau,Apartment,1366,2,2,26,2,No,Semi-Furnished,4650000
+Georgetown,Independent House,1151,3,3,26,1,No,Furnished,6240000
+Teliarganj,Apartment,1017,2,2,25,6,Yes,Unfurnished,5650000
+Jhalwa,Independent House,1145,2,1,1,2,Yes,Furnished,8550000
+Kareli,Apartment,1464,3,2,2,6,No,Semi-Furnished,10660000
+Civil Lines,Apartment,1404,3,3,8,5,Yes,Unfurnished,13540000
+Civil Lines,Apartment,625,2,2,17,4,Yes,Semi-Furnished,5150000
+Jhunsi,Independent House,2281,4,3,10,0,Yes,Furnished,10860000
+Teliarganj,Apartment,684,1,1,15,3,Yes,Unfurnished,4180000
+Phaphamau,Builder Floor,1127,2,1,5,2,Yes,Furnished,4480000
+Naini,Independent House,2835,5,5,22,2,Yes,Semi-Furnished,13900000
+Naini,Apartment,731,1,1,9,6,Yes,Semi-Furnished,3780000
+Kareli,Independent House,1337,3,3,2,1,Yes,Furnished,9520000
+Jhalwa,Apartment,723,2,1,23,0,Yes,Unfurnished,3630000
+Civil Lines,Builder Floor,1035,2,2,27,0,Yes,Furnished,7890000
+Kareli,Independent House,1600,2,2,0,0,No,Unfurnished,10340000
+Jhalwa,Villa,3080,5,5,13,0,No,Semi-Furnished,19090000
+Jhunsi,Apartment,997,2,1,25,4,Yes,Semi-Furnished,3570000
+Naini,Independent House,2615,4,3,21,1,Yes,Unfurnished,11150000
+Georgetown,Independent House,2501,5,5,26,2,No,Unfurnished,11540000
+Teliarganj,Builder Floor,1654,4,3,12,2,Yes,Unfurnished,10130000
+Jhalwa,Independent House,1468,2,2,11,1,Yes,Unfurnished,8980000
+Georgetown,Independent House,2569,4,4,21,2,No,Unfurnished,13280000
+Teliarganj,Apartment,1262,2,2,4,3,Yes,Unfurnished,9350000
+Naini,Apartment,913,1,1,7,4,No,Unfurnished,4060000
+Jhalwa,Independent House,1560,2,2,18,1,Yes,Unfurnished,8530000
+Jhunsi,Independent House,1557,3,2,20,0,Yes,Semi-Furnished,5790000
+Civil Lines,Apartment,886,2,2,3,6,Yes,Semi-Furnished,8890000
+Jhalwa,Builder Floor,1289,3,3,15,0,Yes,Semi-Furnished,7170000
+Civil Lines,Builder Floor,1452,3,3,11,1,Yes,Unfurnished,11510000
+Teliarganj,Apartment,1099,2,1,15,3,Yes,Furnished,7740000
+Jhunsi,Independent House,2865,5,5,29,2,No,Semi-Furnished,9360000
+Teliarganj,Apartment,1196,2,1,2,2,Yes,Unfurnished,7640000
+Teliarganj,Independent House,1819,4,3,30,0,Yes,Unfurnished,8670000
+Naini,Apartment,748,1,1,13,0,No,Semi-Furnished,3520000
+Kareli,Independent House,1704,3,2,23,1,No,Unfurnished,8160000
+Civil Lines,Villa,3585,5,4,13,1,Yes,Semi-Furnished,40190000
+Civil Lines,Villa,3702,5,5,9,2,Yes,Furnished,45290000
+Jhunsi,Apartment,1323,3,3,23,4,No,Unfurnished,4340000
+Kareli,Builder Floor,1534,3,3,21,2,Yes,Unfurnished,7670000
+Kareli,Apartment,1348,2,1,4,6,No,Furnished,7830000
+Teliarganj,Apartment,1019,2,2,21,4,No,Semi-Furnished,5450000
+Jhunsi,Independent House,1657,4,3,23,0,No,Unfurnished,5260000
+Kareli,Independent House,2538,5,4,12,0,Yes,Furnished,16230000
+Kareli,Builder Floor,1303,3,2,28,0,Yes,Furnished,6520000
+Jhalwa,Builder Floor,1660,4,4,19,1,Yes,Semi-Furnished,8420000
+Civil Lines,Apartment,781,1,1,10,7,Yes,Semi-Furnished,6200000
+Naini,Builder Floor,932,1,1,0,0,No,Unfurnished,4130000
+Jhalwa,Apartment,1338,2,2,20,5,Yes,Unfurnished,6620000
+Naini,Independent House,2971,5,5,6,0,Yes,Semi-Furnished,16090000
+Georgetown,Apartment,1032,1,1,23,3,Yes,Unfurnished,5290000
+Jhalwa,Builder Floor,895,1,1,16,2,No,Semi-Furnished,4620000
+Civil Lines,Apartment,1234,3,3,14,0,Yes,Furnished,11220000
+Jhalwa,Apartment,1384,3,3,5,2,Yes,Unfurnished,9100000
+Jhalwa,Independent House,1789,4,4,22,1,Yes,Semi-Furnished,9520000
+Jhunsi,Builder Floor,884,2,1,5,2,Yes,Unfurnished,3340000
+Kareli,Builder Floor,1323,3,3,12,0,Yes,Furnished,7740000
+Teliarganj,Villa,2203,5,4,25,2,Yes,Unfurnished,13780000
+Jhunsi,Builder Floor,1523,2,1,28,2,Yes,Semi-Furnished,4890000
+Naini,Builder Floor,937,2,1,30,2,Yes,Semi-Furnished,3560000
+Teliarganj,Independent House,1157,2,1,29,1,Yes,Unfurnished,6280000
+Civil Lines,Apartment,1396,2,1,17,3,Yes,Semi-Furnished,13170000
+Civil Lines,Villa,2808,5,4,6,1,Yes,Semi-Furnished,32950000
+Civil Lines,Independent House,2135,4,3,26,0,Yes,Semi-Furnished,19340000
+Teliarganj,Independent House,967,1,1,24,2,Yes,Semi-Furnished,5820000
+Kareli,Apartment,1130,2,2,30,4,Yes,Furnished,4970000
+Civil Lines,Villa,3674,5,5,20,0,Yes,Unfurnished,36800000
+Kareli,Apartment,1206,2,1,4,0,Yes,Semi-Furnished,7100000
+Civil Lines,Builder Floor,1796,3,3,15,0,Yes,Unfurnished,13810000
+Jhunsi,Apartment,1467,3,2,13,2,Yes,Semi-Furnished,5990000
+Naini,Apartment,1353,3,3,26,1,No,Semi-Furnished,5600000
+Naini,Builder Floor,1746,4,4,12,0,Yes,Unfurnished,7670000
+Jhalwa,Apartment,889,2,1,10,4,Yes,Unfurnished,5520000
+Jhunsi,Apartment,1012,2,1,2,5,Yes,Furnished,5050000
+Naini,Independent House,2933,5,4,25,0,Yes,Unfurnished,13700000
+Civil Lines,Builder Floor,1390,2,2,23,2,Yes,Semi-Furnished,10880000
+Civil Lines,Apartment,1526,2,1,1,6,No,Unfurnished,15530000
+Phaphamau,Apartment,1025,2,1,13,4,No,Furnished,3420000
